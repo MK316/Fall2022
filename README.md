@@ -1,13 +1,15 @@
 # 🌿 Fall2022
-: Graduate Seminar (1 Credit) at GNU
+: Graduate Seminar: _NLP for Big Data_
 
 * Class meetings: Mondays (5:30 ~ 7:30 PM)
-* Classroom: TBA
+* Classroom: Rm# 112
+
 
 💡 **Course Overview**  
-
+This course introduces methodologies to handle big data, which is largely unstructured and in a state of constant growh. Most of the time, big data is text and it is a great advantage for any research who knows or at least understand how to process and analyze big data. Even if you are not a linguist, it needs to be understood that big data contains diverse and unexplored patterns that can help you mine new information. Some researchers use big data to test their reserach hypotheses, some others do for exploring and understanding systematicity behind natural languages and their usage. (To be updated)
 
 📅 **Course Schedule**  
+
 
 | Week | Date |Topics | Code pages | Assignments | 
 |:---:|:---:|:---:|---|---|
