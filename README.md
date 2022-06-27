@@ -6,5 +6,5 @@
 | 2 | Phonology |  |  |
 | 3 | Phonology and English Education |  |  |
 | 4 | Special topics in linguistics |  |  |
-| 5 | Graudate Seminar | [GS](/Grad_Seminar.md) | |
+| 5 | Graudate Seminar | [Syllabus](/Grad_Seminar.md) | |
 
