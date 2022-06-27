@@ -1,4 +1,4 @@
-🌿# Fall2022
+# 🌿 Fall2022
 : Graduate Seminar at GNU
 
 
