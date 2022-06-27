@@ -7,7 +7,9 @@
 ---
 **Course Overview**  
 
-This course introduces methodologies to handle big data, which is largely unstructured and in a state of constant growh. Most of the time, big data is text and it is a great advantage for any research who knows or at least understand how to process and analyze big data. Even if you are not a linguist, it needs to be understood that big data contains diverse and unexplored patterns that can help you mine new information. Some researchers use big data to test their reserach hypotheses, some others do for exploring and understanding systematicity behind natural languages and their usage. (To be updated)
+This course introduces methodologies to handle big data, which is largely unstructured and in a state of constant growh. Most of the time, big data is stored in a text format. Thus, getting an idea or tools to access to big data has become one of the favoured qualification requirements in various fields including academia. For instance, businesses using big data effectively can potentially have a ompetitive advantage over those that don't because they're able to make faster and more informed business decisions. Likewise, 
+
+Even if you are not a linguist, it needs to be understood that big data contains diverse and unexplored patterns that can help you mine new information. Some researchers use big data to test their reserach hypotheses, some others do for exploring and understanding systematicity behind natural languages and their usage. (To be updated)
 
 ---
 
