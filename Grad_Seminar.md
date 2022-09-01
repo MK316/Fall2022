@@ -22,7 +22,7 @@ These are open-source programming languages that can effectively handle text dat
 
 | Week | Date |Topics | Code pages | Assignments | 
 |:---:|:---:|:---:|---|---|
-| Week 01 (2hrs) | 22. 9/5 (M)| Course overview, Intro to Python & R, Github, Colab | Link | Assignment01 |  
+| Week 01 (2hrs) | 22. 9/5 (M)| Course overview, Intro to Python & R, Github, Colab | [intro](/intro.md) | Assignment01 |  
 | Week 02 (3 hrs)| 22. 9/19 (M)| Coding basics: variables, data structure | Link | Assignment02 |
 | Week 03 (3 hrs)| 22. 9/26 (M)| Big data & Natural Language Processing (NLP) | Link | Assignment03 |
 | Week 04 (3 hrs)| 22. 10/17 (M)| Descriptive statistics | Link | Assignment04 |
