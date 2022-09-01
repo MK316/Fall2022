@@ -26,6 +26,6 @@ These are open-source programming languages that can effectively handle text dat
 | Week 02 (3 hrs)| 22. 9/19 (M)| Coding basics: variables, data structure | Link | Assignment02 |
 | Week 03 (3 hrs)| 22. 9/26 (M)| Big data & Natural Language Processing (NLP) | Link | Assignment03 |
 | Week 04 (3 hrs)| 22. 10/17 (M)| Descriptive statistics | Link | Assignment04 |
-| Week 05 (3 hrs)| 22. 10/31 (M)| Data visualization | Link | Assignment05 |
+| Week 05 (3 hrs)| 22. 10/31 (M)| Data visualization, Gradio, AI | Link | Assignment05 |
 | Week 06 (1 hr)| 22. 12/19 (M) | Individual Final projects | Link | Final |
 
