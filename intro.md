@@ -3,7 +3,7 @@
 # Introduction   
 
 🌀  Python is a [high-level], interpreted, general-purpose _**programming** language._ [▶️ Wikipedia]("https://en.wikipedia.org/wiki/Python_(programming_language)")  
-- Online reference: [link]("https://byjus.com/gate/difference-between-high-level-and-low-level-languages/#:~:text=High%2Dlevel%20languages%20require%20the,instructions%20of%20the%20machine%20language.&text=These%20languages%20have%20a%20very%20low%20memory%20efficiency")
+- Online reference: [link](https://byjus.com/gate/difference-between-high-level-and-low-level-languages/#:~:text=High%2Dlevel%20languages%20require%20the,instructions%20of%20the%20machine%20language.&text=These%20languages%20have%20a%20very%20low%20memory%20efficiency)
 
 🌀  **Why Python?**  
 
