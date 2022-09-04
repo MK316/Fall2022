@@ -29,3 +29,4 @@ These are open-source programming languages that can effectively handle text dat
 | Session 05 (3 hrs)| 22. 10/31 (M)| Data visualization, Gradio, AI | Link | Assignment05 |
 | Session 06 (1 hr)| 22. 12/19 (M) | Individual Final projects | Link | Final |
 
+Reading: online tutorial [Jump to Python](https://wikidocs.net/book/1)
