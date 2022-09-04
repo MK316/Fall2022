@@ -9,9 +9,6 @@
 - [The R Project](https://www.r-project.org/): "R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS."
 - On my PC or R Studio online platform
 
-🌀  **How to use?**  On my PC or Using Colab online platform
-
-[▶️  Colab intro link:]("https://colab.research.google.com/?utm_source=scs-index#scrollTo=5fCEDCU_qrC0")  
 
 **Colab**, or **"Colaboratory"**, allows you to write and execute Python in your browser (not on your computer), with
 
