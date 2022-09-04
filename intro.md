@@ -4,11 +4,9 @@
 
 🌀  Python is a [high-level](https://byjus.com/gate/difference-between-high-level-and-low-level-languages/#:~:text=High%2Dlevel%20languages%20require%20the,instructions%20of%20the%20machine%20language.&text=These%20languages%20have%20a%20very%20low%20memory%20efficiency), interpreted, general-purpose _**programming** language._ [▶️ Wikipedia]("https://en.wikipedia.org/wiki/Python_(programming_language)")  
 
-🌀  **Why Python?**  
+🌀  **R & Python?**  
 
-🌀  **How to use?**  
-
-On my PC or Using Colab online platform
+🌀  **How to use?**  On my PC or Using Colab online platform
 
 [▶️  Colab intro link:]("https://colab.research.google.com/?utm_source=scs-index#scrollTo=5fCEDCU_qrC0")  
 
