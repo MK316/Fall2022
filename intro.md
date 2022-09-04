@@ -4,8 +4,8 @@
 
 🌀 **Python** is a [high-level](https://byjus.com/gate/difference-between-high-level-and-low-level-languages/#:~:text=High%2Dlevel%20languages%20require%20the,instructions%20of%20the%20machine%20language.&text=These%20languages%20have%20a%20very%20low%20memory%20efficiency), interpreted, general-purpose _**programming** language._ [▶️ Wikipedia]("https://en.wikipedia.org/wiki/Python_(programming_language)")  
 
-🌀 **R **  
-
+🌀 **R**  
+- [What is R?](https://www.r-project.org/about.html)
 - [The R Project](https://www.r-project.org/): "R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS."
 - On my PC or R Studio online platform
 
