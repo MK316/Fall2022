@@ -2,8 +2,7 @@
 ![](https://github.com/MK316/workshop22/blob/9f2fd7ea78dc85c7e3ad2ec24db76dd75f755b95/img/pythonlogo.png)
 # Introduction   
 
-🌀  Python is a [high-level], interpreted, general-purpose _**programming** language._ [▶️ Wikipedia]("https://en.wikipedia.org/wiki/Python_(programming_language)")  
-- Online reference: [link](https://byjus.com/gate/difference-between-high-level-and-low-level-languages/#:~:text=High%2Dlevel%20languages%20require%20the,instructions%20of%20the%20machine%20language.&text=These%20languages%20have%20a%20very%20low%20memory%20efficiency)
+🌀  Python is a [high-level](https://byjus.com/gate/difference-between-high-level-and-low-level-languages/#:~:text=High%2Dlevel%20languages%20require%20the,instructions%20of%20the%20machine%20language.&text=These%20languages%20have%20a%20very%20low%20memory%20efficiency), interpreted, general-purpose _**programming** language._ [▶️ Wikipedia]("https://en.wikipedia.org/wiki/Python_(programming_language)")  
 
 🌀  **Why Python?**  
 
