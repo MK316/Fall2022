@@ -6,7 +6,9 @@
 
 🌀  **Why Python?**  
 
-🌀  **How?** Using Colab platform (much easier)
+🌀  **How to use?**  
+
+On my PC or Using Colab online platform
 
 [▶️  Colab intro link:]("https://colab.research.google.com/?utm_source=scs-index#scrollTo=5fCEDCU_qrC0")  
 
