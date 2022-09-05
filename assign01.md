@@ -1,4 +1,4 @@
-# Assingment 01 (Due by 9/15, Sun)
+# Assingment 01 (Due by 9/18, Sun)
 
 1. Create a github account
 2. Create a repository named "F2022"
