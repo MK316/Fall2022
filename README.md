@@ -9,8 +9,9 @@
 | 5 | Graudate Seminar | Mondays (5:30-7:30 PM) | [Syllabus](/Grad_Seminar.md) | |
 
 
-# 🌿 Invited lecture (Scheduled, Oct. 2022)
-: Introduction to Python & R (1hr)  
+# 🌿 Conference presentation (Oct.22, 2022)
+: Introduction to Python & R (1hr) 
+[link](https://github.com/MK316/pketa22)
 
 
 
