@@ -11,6 +11,7 @@ NLTK practice
 
 ## Code to create:
 
+|Steps| Process|
 |---|---|
 |A. | file to read using url |
 |B. |get number of words|
