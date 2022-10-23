@@ -11,9 +11,10 @@ NLTK practice
 
 ## Code to create:
 
-A. file to read using url
-B. get number of words
-C. get number of words after removing stopwords
-D. create a wordcloud with your text
-E. Get frequency table (top 10 high frequent words)
-F. Get Tagged wordlist
+|--|--|
+|A. | file to read using url |
+|B. |get number of words|
+|C. |get number of words after removing stopwords|
+|D. |create a wordcloud with your text|
+|E. |Get frequency table (top 10 high frequent words)|
+|F. |Get Tagged wordlist|
