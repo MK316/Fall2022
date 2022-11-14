@@ -25,7 +25,7 @@ These are open-source programming languages that can effectively handle text dat
 | Session 01 (2hrs) | 22. 9/5 (M)| Course overview, Intro to Python & R, Github, Colab | [🌀Intro](/intro.md), [🌀Getting ready](Gettingready.ipynb),[🌀Wordcloud](wordcloud_sample.ipynb) | [Assignment01](assign01.md) |  
 | Session 02 (3 hrs)| 22. 9/26 (M)| Coding basics: variables, data structure | [🌀Session02](session02.ipynb) | [Assignment02](assign02.md) |
 | Session 03 (3 hrs)| 22. 10/24 (M)| Big data & Natural Language Processing (NLP) | [🌀Session03](nltk_practice.ipynb) | Assignment03 |
-| Session 04 (3 hrs)| 22. 11/14 (M)| NLP Part 2, Descriptive statistics | [🌀Session04](session04.ipynb) | [nltk practice]()nltk_practice.ipynb) |
+| Session 04 (3 hrs)| 22. 11/14 (M)| NLP Part 2, Descriptive statistics | [🌀Session04](session04.ipynb) | [nltk practice](nltk_practice.ipynb) |
 | Session 05 (3 hrs)| 22. 11/28 (M)| Data visualization, Gradio, AI | Link | Assignment05 |
 | Session 06 (1 hr)| 22. 12/19 (M) | Individual Final projects | Link | Final |
 
