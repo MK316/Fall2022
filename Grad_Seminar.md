@@ -26,7 +26,7 @@ These are open-source programming languages that can effectively handle text dat
 | Session 02 (3 hrs)| 22. 9/26 (M)| Coding basics: variables, data structure | [🌀Session02](session02.ipynb) | [Assignment02](assign02.md) |
 | Session 03 (3 hrs)| 22. 10/24 (M)| Big data & Natural Language Processing (NLP) | [🌀Session03](session03.ipynb) | Assignment03 |
 | Session 04 (3 hrs)| 22. 11/14 (M)| NLP Part 2, NLP review | [🌀Session04](session04.ipynb) | [nltk practice](nltk_practice.ipynb) |
-| Session 05 (3 hrs)| 22. 11/28 (M)| Descriptive statistics Data, visualization, (Gradio, AI) | [🌀Session05](session05.ipynb) | More |
+| Session 05 (3 hrs)| 22. 11/28 (M)| Descriptive statistics Data, visualization, (Gradio, AI) | [🌀Session05](session05.ipynb) | [Playgame](Playquiz01.ipynb) |
 | Session 06 (1 hr)| 22. 12/12 (M) | Individual Final projects | Link | Final |
 
 Reading: online tutorial 
