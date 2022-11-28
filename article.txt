@@ -1,0 +1,29 @@
+When the Hour of Code launched in 2013, I set aside my English curriculum for one day so my eighth graders could experiment with computer coding. 
+There was just one problem: I had never written a line of code in my life!
+
+Luckily, the Hour of Code offers more than 200 video tutorials for all ages and abilities. My students could choose hour-long tutorials with themes like Minecraft, Star Wars, Angry Birds, Frozen, Moana and more. Love music? There’s an Hour of Code tutorial for you. Art? Check. Race cars? Check. Sports? Got it. Don’t have devices for all your students? That’s Okay! The Hour of Code even offers unplugged lessons that introduce students to the language and logic of coding without computers. These hands-on, interactive tutorials make learning about computer coding fun and engaging. But that one-hour exploration was as far as we went. The next day we were back to writing literary analysis.
+
+Three years later, I decided it was time to go deeper with coding, to incorporate it into a unit that would not just teach my students about coding but would also reinforce what they had been learning in my English class. My first ever three-week coding unit wrapped up our semester in a fun and powerful way, and even had direct connections to our English curriculum.
+
+My students had spent most of the first semester writing their own novels (thanks to NaNoWriMo), so they were very familiar with the elements of a story. And although I’m not much of a gamer myself, I do know that video and computer games are usually based on a story: a main character attempts to do something or go somewhere, but encounters obstacles along the way to an ultimate destination. I asked my students to compare the elements of a novel with the elements of a game, and right away they saw the similarities.
+
+Next my students brainstormed ideas for computer games based on the novel they had just written. Rather than coming up with a brand new idea, their novel plots provided them with developed characters and rich stories for their games. But their games couldn’t be as long or complex as their novels had been, so they had to spend some time narrowing down the adventure for their protagonist, planning for obstacles to be faced, and designing the ultimate “win.” That exercise alone was a valuable part of their ongoing literature study.
+
+After they shared their game ideas aloud (and got more ideas from their classmates), it was time to introduce them to coding. Thanks to Scratch, a free program from MIT that teaches coding through a drag-and-drop interface, even beginners can learn to code animations, games, and interactive stories. We started with a step-by-step guide for creating a basic game with Scratch. My students worked in pairs or groups (each with their own Chromebook), and I encouraged them to talk to each other as they started learning the vocabulary and logic of Scratch and coding.
+
+Although coding may not seem to fit in an English class, my students quickly discovered two similarities: coding is a language with its own vocabulary, and proofreading one’s work is critical. That misplaced semicolon will bring their game to a halt, so coding helps students practice that essential skill of carefully reading over and proofreading their work.
+
+Once my students completed the practice game and had a plan for their novel-based game, they were ready to start creating in Scratch. In addition to the tutorials on the Hour of Code site, Scratch itself offers lots of support, allowing students to work at their own pace and continue with their game development at home. As my students coded their games and learned the ins and outs of the program, I stopped them periodically so they could share what they were learning with the class. It was great to see kids becoming experts who could then help their classmates code a more complicated game. Some had so much fun, they chose to stay in at lunch to keep working.
+We wrapped up our coding unit by playing one another’s games and giving feedback via Google Forms that each game designer created for him/herself. Most students said their game wasn’t finished yet, and they planned to continue working on it over the winter break.
+
+Whether or not my students pursue computer science in the future, they have at least been introduced to the concepts, discovered that they can program a computer to do what they want, and they know where to go if they would like to keep learning. Beyond the Scratch lessons, students can learn to code on their own on sites like Khan Academy, Codecademy, and Google’s CS First.
+So why would I take three weeks out of my English curriculum to let my students learn the basics of computer coding? Why should teachers of science, history, or math do the same? Whether or not our students choose to pursue computer science, it is worth the time to incorporate coding into our curriculum because coding:
+
+- builds problem-solving skills and logical thinking
+- opens new avenues to creativity
+- gives students a foundation for success in 21st century careers
+- reinforces our own curriculum through a different lens
+- helps students understand how their own technology works
+- opens their eyes to potential careers
+
+How can you incorporate computer coding in a meaningful way in your classroom? Check out this coding plan for math class; read how teachers are incorporating coding in art and history classes; and download a free guide full of coding projects here. You don’t have to be a computer scientist to introduce your students to the magic and potential of coding!
