@@ -16,7 +16,7 @@ Most of the time, big data is stored in a text format. Thus, getting an idea or 
 These are open-source programming languages that can effectively handle text data whether they are structured(e.g., excel files), semi-structured(e.g., certain language transcripts/records), or unstructured(e.g., writings/texts).
 
 **NLP and English language education:**
-Language teachers can provide learning material to students at different levels assisting their self learning processes, such as wordlist in a given text, wordcloud (showing keywords in the text), POS tagged wordlist, words/sentences/paragraphs with native speech (using gTTS), and language games.   
+Language teachers can provide learning material to students at different levels assisting their self learning processes. Language material can be wordlist (with frequency) in a given text (or the entire book), wordcloud (showing keywords in the text), POS tagged wordlist, words/sentences/paragraphs with native speech (using gTTS), and language games.   
 
 ---
 
