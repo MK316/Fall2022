@@ -1,5 +1,5 @@
 # Graduate Seminar (1 credit)
-:_NLP for Big Data_
+: _NLP for Big Data_
 
 * Class meetings: Mondays (5:30 ~ 7:30 PM)
 * Classroom: Rm# 112
