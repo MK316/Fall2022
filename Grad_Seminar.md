@@ -1,7 +1,7 @@
 # Graduate Seminar (1 credit)
 : _NLP (Natural Language Processing) and English Education_
 
-* Class meetings: Mondays (5:30 ~ 7:30 PM)
+* Class meetings: Mondays (5:30 ~ 8:30 PM)
 * Classroom: Rm# 112
 
 ---
