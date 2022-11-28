@@ -29,7 +29,7 @@ Language teachers can provide learning material to students at different levels 
 | Session 02 (3 hrs)| 22. 9/26 (M)| Coding basics: variables, data structure | [🌀Session02](session02.ipynb) | [Assignment02](assign02.md) |
 | Session 03 (3 hrs)| 22. 10/24 (M)| Big data & Natural Language Processing (NLP) | [🌀Session03](session03.ipynb) | Assignment03 |
 | Session 04 (3 hrs)| 22. 11/14 (M)| NLP Part 2, NLP review | [🌀Session04](session04.ipynb) | [nltk practice](nltk_practice.ipynb) |
-| Session 05 (3 hrs)| 22. 11/28 (M)| Descriptive statistics Data, visualization, ([Gradio](https://gradio.app/), [AI-Huggingface](https://huggingface.co/)) | [🌀Session05](session05.ipynb), [LM](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb) | [Playgame](Playquiz01.ipynb), [text-summarize](https://github.com/MK316/Fall2022/blob/main/Demo02_Summarization.ipynb) |
+| Session 05 (3 hrs)| 22. 11/28 (M)| Descriptive statistics Data, visualization, ([Gradio](https://gradio.app/), [AI-Huggingface](https://huggingface.co/)) | [🌀Session05]([session05.ipynb](https://github.com/MK316/Fall2022/blob/main/session05.ipynb)), [LM](https://github.com/MK316/statistics/blob/main/lineaRegression.ipynb) | [Playgame](Playquiz01.ipynb), [text-summarize](https://github.com/MK316/Fall2022/blob/main/Demo02_Summarization.ipynb) |
 | Session 06 (1 hr)| 22. 12/12 (M) | Individual Final projects | Link | Final |
 
 Reading: online tutorial 
